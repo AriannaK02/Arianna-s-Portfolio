@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31716843/README.md)
 # Personal Portfolio — Arianna
 
 Open `index.html` in a browser or serve the folder with a simple static server.
